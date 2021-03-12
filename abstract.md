@@ -1,0 +1,1 @@
+* Creazione di un'applicazione che consente di impostare (commitment) un saldo massimo spendibile stabilito mensilmente. Dare la possibilita' di interagire con il saldo con i movimenti in denaro e avere cosi' una facile percezione dei soldi spesi. 
